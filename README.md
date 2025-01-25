@@ -29,5 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SM-GIT-HUB&" alt="SM-GIT-HUB" /></p>
 
+###
 
-<img src="https://raw.githubusercontent.com/SM-GIT-HUB/SM-GIT-HUB/output/snake.svg" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SM-GIT-HUB/SM-GIT-HUB/output/snake.svg" alt="Snake animation" />
+
+###
