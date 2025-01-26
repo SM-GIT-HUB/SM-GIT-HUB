@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SM-GIT-HUB&show_icons=true&locale=en" alt="SM-GIT-HUB" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SM-GIT-HUB&" alt="SM-GIT-HUB" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SM-GIT-HUB" alt="SM-GIT-HUB" />
