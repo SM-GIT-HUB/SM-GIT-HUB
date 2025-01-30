@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Various Projects**
 
-- 🌱 I’m currently learning **Java + Springboot**
+- 🌱 I’m currently learning **DSA + DEV**
 
 - 💬 Ask me about **DSA and Development**
 
